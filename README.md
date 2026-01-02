@@ -1,6 +1,6 @@
 # Adjustable Power Supply (1.23V–50V, 3A)
 
-This repository contains the complete design of an adjustable DC power supply based on the **LM2576HVT-ADJ** buck regulator.
+This repository contains the complete design of an adjustable DC/AC power supply based on the **LM2576HVT-ADJ** buck regulator.
 
 The power supply converts an input voltage of up to **55V DC** into an adjustable output voltage ranging from **1.23V to 50V**, with a maximum output current of **3A**.  
 The design was simulated, built, tested, and verified on real hardware.
