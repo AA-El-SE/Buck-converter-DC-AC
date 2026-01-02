@@ -10,7 +10,7 @@ The design was simulated, built, tested, and verified on real hardware.
 ## Features
 
 - Buck converter based on **LM2576HVT-ADJ**
-- Adjustable output voltage: **1.23V – 50V**
+- Adjustable output voltage: DC **1.23V – 50V**
 - Maximum output current: **3A**
 - Input voltage up to **55V DC**
 - Fixed switching frequency: **52 kHz**
